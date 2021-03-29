@@ -28,6 +28,8 @@ gem 'jbuilder', '~> 2.7'
 # user authentication
 gem 'devise'
 
+gem 'pg'
+
 gem 'nested_scaffold'
 
 # Reduces boot times through caching; required in config/boot.rb
